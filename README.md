@@ -1,2 +1,2 @@
 # pop-it
-[Деплой](vtarasso.github.io/pop-it/)
+[Деплой](https://vtarasso.github.io/pop-it/)
